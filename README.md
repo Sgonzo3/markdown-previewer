@@ -2,8 +2,9 @@
 Completed as part of freeCodeCamp's Front End Libraries Certification
 
 ## Instructions
-- The prieviewer initially display information about the author and some examples of code in markdown as a demonstration
-- Select All text in the editor field to begin your own writing
+- The editor initially displays information about the author and some examples of code in markdown as a demonstration
+- The previewer displays the markdown text as HTML
+- Click or tab focus on the editor window to clear demo text
 - Markdown written in the editor will be displayed in the previewer as HTML
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
